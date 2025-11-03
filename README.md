@@ -23,14 +23,18 @@ Through active inquiry and learning, the app seeks to replace the passive consum
 ## Architecture
 <img width="212" height="510" alt="image" src="https://github.com/user-attachments/assets/5319e807-b3ba-4f53-b088-4531f50240f2" />
 
-
-
 ## Protoype Progress
+✅ Completed
+- Login & Signup
+- Firebase Authentication
+- Profile Page
 
-
-
-
-
+🚧 In Progress
+- Case List & Map Integration
+- AR Integration
+- 
+🚧 Planned
+Discussion Threads
 
 
 
