@@ -65,9 +65,9 @@ File > Open > ColdCaseAR
 - Increase the number of actual cold instances in the dataset
 
 ## Team Members
-- Iqra Zahid         100824901
-- Navdeep Virdi      100827233
-- Mahnoor Jamal      100822030
-- Riya Rajesh        100869701
-- Sehar Ahmed        100808249
+- Iqra Zahid (100824901)
+- Navdeep Virdi (100827233)
+- Mahnoor Jamal (100822030)
+- Riya Rajesh (100869701)
+- Sehar Ahmed (100808249)
 
