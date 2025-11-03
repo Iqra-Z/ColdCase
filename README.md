@@ -21,7 +21,7 @@ Through active inquiry and learning, the app seeks to replace the passive consum
 - Version control with GitHub and Git
 
 ## Architecture
-<img width="412" height="710" alt="image" src="https://github.com/user-attachments/assets/5319e807-b3ba-4f53-b088-4531f50240f2" />
+<img width="212" height="510" alt="image" src="https://github.com/user-attachments/assets/5319e807-b3ba-4f53-b088-4531f50240f2" />
 
 
 
