@@ -58,6 +58,12 @@ File > Open > ColdCaseAR
     android:value="YOUR_API_KEY_HERE"/>
 5. Build and run on an emulator or physical device.
 
+## Future Enhancements
+- Include support for Augmented Reality (AR) to create realistic crime scene visuals.
+- Establish discussion boards with tools for moderation.
+- Introduce themes for dark mode and offline caching.
+- Increase the number of actual cold instances in the dataset
+
 ## Team Members
 - Iqra Zahid
 - Navdeep Virdi
