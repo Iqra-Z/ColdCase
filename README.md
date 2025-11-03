@@ -32,19 +32,36 @@ Through active inquiry and learning, the app seeks to replace the passive consum
 🚧 In Progress
 - Case List & Map Integration
 - AR Integration
-- 
+
 🚧 Planned
-Discussion Threads
+- Discussion Threads
 
+## Tech Stack
+- Language: Java / Kotlin
+- IDE: Android Studio
+- Database: Firebase Realtime Database
+- Map API: Google Maps SDK
+- Authentication: Firebase Auth
+- Design Tools: Canva, Figma (mockups)
+- Version Control: Git + GitHub
 
+## Installation
+1. Clone the repository
+git clone https://github.com/your-username/ColdCaseAR.git
+cd ColdCaseAR
+2. Open in Android Studio
+File > Open > ColdCaseAR
+3. Add your Firebase configuration file (google-services.json) to the /app folder.
+4. Add your Google Maps API key in AndroidManifest.xml:
+<meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="YOUR_API_KEY_HERE"/>
+5. Build and run on an emulator or physical device.
 
-
-
-
-
-
-
-
-
-
+## Team Members
+- Iqra Zahid
+- Navdeep Virdi
+- Mahnoor Jamal
+- Riya Rajesh
+- Sehar Ahmed
 
