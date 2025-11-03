@@ -71,3 +71,6 @@ File > Open > ColdCaseAR
 - Riya Rajesh (100869701)
 - Sehar Ahmed (100808249)
 
+
+This project is for educational purposes only as part of the SOFE 4640U Mobile App Development course (Fall 2025)
+_
