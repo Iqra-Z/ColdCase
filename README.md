@@ -47,8 +47,6 @@ Through active inquiry and learning, the app seeks to replace the passive consum
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/your-username/ColdCaseAR.git
-cd ColdCaseAR
 2. Open in Android Studio
 File > Open > ColdCaseAR
 3. Add your Firebase configuration file (google-services.json) to the /app folder.
