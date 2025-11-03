@@ -21,20 +21,9 @@ Through active inquiry and learning, the app seeks to replace the passive consum
 - Version control with GitHub and Git
 
 ## Architecture
-┣ 📂 ui
-┃ ┣ MainActivity.kt 
-┃ ┣ LoginActivity.kt 
-┃ ┣ SignupActivity.kt
-┃ ┣ MapActivity.kt 
-┃ ┗ ProfileActivity.kt 
-┣ 📂 data 
-┃ ┣ FirebaseHelper.kt 
-┃ ┗ CaseModel.kt 
-┣ 📂 resources 
-┃ ┣ layout/ 
-┃ ┣ drawable/ 
-┃ ┗ values/ 
-┗ AndroidManifest.xml
+<img width="412" height="710" alt="image" src="https://github.com/user-attachments/assets/5319e807-b3ba-4f53-b088-4531f50240f2" />
+
+
 
 ## Protoype Progress
 
